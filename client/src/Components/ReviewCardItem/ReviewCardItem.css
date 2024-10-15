@@ -1,0 +1,60 @@
+.ReviewCardItem {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  transition: transform 0.3s;
+  padding-top: 13px;
+}
+
+.ReviewCardItem:hover {
+  transform: translateY(-10px);
+}
+
+.imageReviewCard{
+    height: 300px;
+    width: 450px;
+    margin: auto;
+
+}
+
+.imageReviewCard img {
+  width: 100%;
+  height: 100%;
+border-radius: 8px;
+  margin-bottom: 10px;
+  
+}
+
+.authorReviewCard {
+  font-weight:  650; 
+  margin-bottom: 8px;
+  font-size: 1.1em;
+}
+
+.titleReviewCard {
+  font-size: 1.2em;
+  color: #333;
+  margin-bottom: 8px;
+  font-weight: 700;
+}
+
+
+
+.rateReviewCard {
+
+  font-size: 1.2em;
+  color: #FFD700; /* Gold color for rating */
+  margin-bottom: 8px;
+}
+
+.bodyReviewCard {
+  font-style: italic;
+  color: #555;
+  margin-bottom: 8px;
+}

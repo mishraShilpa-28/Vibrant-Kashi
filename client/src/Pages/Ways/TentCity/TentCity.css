@@ -1,0 +1,98 @@
+* {
+  padding: 40px;
+  margin: 40px;
+}
+
+.TentCity {
+  position: relative;
+  overflow: hidden;
+}
+.TentCityImage {
+  height: 80vh;
+  width: 100vw;
+}
+.TentCity img {
+  height: 100%;
+  width: 100%;
+}
+.TentCityTitle {
+  position: absolute;
+  top: 65%;
+  left: 70px;
+  /* background-color: rgba(0, 0, 0, 0.5);   */
+  color: white;
+  padding: 10px;
+}
+.TentCityHeading {
+  font-weight: 800;
+  font-size: 5rem;
+}
+.TentHeading{
+     font-family: cursive;
+  font-size: 2.5em;
+  font-weight: 600;
+
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+
+.detailsOfTent{
+ margin:50px 60px;
+ padding: 20px;
+ background-color: rgba(255, 255, 255, 0.914);
+  box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.678);
+  border-radius: 10px;
+ 
+  
+}
+.imageTent{
+  float: right;
+  height: 380px;
+  width: 500px;
+  border-radius: 8px;
+}
+
+.firstImageTent{
+  float: center;
+  padding: 5px;
+  width: 100%;
+  height: 600px;
+}
+
+.descriptionOfTent{
+  font-size: 1.2rem;
+}
+.secondImageTent{
+  float: left;
+  height: 370px;
+  width: 500px;
+  border-radius: 15px;
+  padding: 10px;
+  
+
+}
+
+.headingOfTent{
+  font-weight: 600;
+
+}
+.subheadingOfTent{
+  font-weight: 550;
+}
+
+.subTopicTent{
+  font-weight: 550;
+  
+}
+.descriptionOfTent{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.fourthImageTent{
+  float: right;
+  height: 330px;
+  width: 500px;
+   border-radius: 20px;
+  padding: 10px;
+}

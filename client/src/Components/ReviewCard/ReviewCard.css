@@ -1,0 +1,21 @@
+.eReviewCard {
+  margin-left: 45px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Three columns */
+  gap: 20px; /* Space between cards */
+  padding: 16px;
+}
+
+@media (max-width: 768px) {
+  .eReviewCard {
+    grid-template-columns: repeat(2, 1fr); /* Two columns for medium screens */
+  }
+}
+
+@media (max-width: 480px) {
+
+
+  .eReviewCard {
+    grid-template-columns: 1fr; /* One column for small screens */
+  }
+}

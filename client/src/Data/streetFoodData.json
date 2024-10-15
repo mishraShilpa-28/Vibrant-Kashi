@@ -1,0 +1,103 @@
+
+{
+    "StreetFood":[
+        {
+      "id":"1.",
+      "title":"Kachori Sabzi"
+,
+      "image":"https://media-cdn.tripadvisor.com/media/photo-s/1b/53/b9/62/badi-kachori.jpg",
+      "info":"This appetising breakfast item in Banaras is the first dish you must try in the city. While the crispy kachoris are made with a stuffing of lentils and spices (called dal ki pithi), the lip-smacking and aromatic sabzi is prepared with boiled potatoes, black pepper, cloves, chillies and other ingredients. This delectable combination is truly a treat for the taste buds; it is relished by locals, tourists and people of all ages. Visit any street food joint in the city in the early morning and you will see many hostelers and office goers enjoying this hot breakfast. So, we can safely say that your trip to Banaras will be incomplete without tasting the authentic Banarasi kachori sabzi. ",
+"Address": "The Ram Bhandar, C.K 15/29 Katra Ratanlal, Thathe ri Bazar, Govindpura, Varanasi, Uttar Pradesh 221001 ",
+"Timings": "Friday, 7:30–11 am, 2:30–5:30 pm"
+
+
+
+
+    },
+     {
+      "id":"2.",
+      "title":"Banarasi Paan",
+      "image":"https://static.toiimg.com/photo/99236470.cms",
+      "info":"Say Banaras and the first thing that comes to mind is Banarasi paan, all thanks to the popular Bollywood song “Khaike Paan Banaras Wala”. As per locals, your meal is incomplete if you do not have a paan at the end of it. Banarasi paan is prepared by stuffing betel leaves with a combination of ingredients, like betel nuts, fennel seeds, clove powder, cardamom, cinnamon, menthol, lime or tobacco. The sweet version or meetha paan is milder and has no tobacco or lime. It is mostly flavoured with gulkand, fennel seeds and a few soft suparis. ",
+
+"Address": "Keshav Paan Bhandar, Mahmoorganj",
+"Timings": "Open 24 hours"
+
+
+    },
+     {
+      "id":"3.",
+      "title":"Baati Chokha",
+      "image":"https://img.freepik.com/premium-photo/litti-chokha-is-complete-meal-originated-from-indian-state-bihar_466689-329.jpg",
+      "info":"Baati chokha, popularly known as litti chokha, is a tasty snack that you can enjoy at different street food joints and eateries around the city. This Banaras famous food looks like the dal baati of Rajasthan. The round baatis or littis are made with wheat flour dough and stuffed with a flavourful sattu masala. They are then cooked over charcoal for that authentic taste. Chokha is a spicy mixture of roasted eggplants and tomatoes, boiled potatoes, ginger, chillies and other ingredients. A delectable local delicacy, baati chokha is something you can’t afford to miss in Banaras.",
+      "Address":"Baati Chokha Restaurant, Aanand Mandir Cinema Hall, Raja Bazar Rd, Andhrapull, Teliyabag, Varanasi, Uttar Pradesh 221002",
+      "Timings":"11 am–10:30 pm"
+
+
+
+    },
+     {
+      "id":"4.", 
+      "title":"Choora Matar",
+      "image":"https://www.fabhotels.com/blog/wp-content/uploads/2022/08/photo-2-1.jpg",
+      "info":"Visit Varanasi during the winter season and you will find scores of street food stalls offering this flavourful snack. Prepared with flattened rice, milk, ghee, cashew nuts, fresh peas and spices, choora matar is Varanasi’s version of the popular breakfast item – poha. Chopped coriander leaves and lemon juice are added towards the end for that extra zing. Choora matar is best enjoyed in the evening with hot tea or coffee. ",
+"Address":"Kashi Chaat Bhandar, Dashashwamedh Ghat Rd, Godowlia, Varanasi, Uttar Pradesh 221001",
+"Timings":" 2:30–10:30 pm"},
+     {
+      "id":"5.",
+      "title":"Dahi Chutney Golgappe",
+      "image":"https://www.fabhotels.com/blog/wp-content/uploads/2022/08/Dahi-Chutney-Golgappe-1.jpg",
+      "info":"For street food lovers, golgappe in any form is a delicacy. And the dahi chutney golgappe of Varanasi is probably one of the best street foods you can try in the city. The crispy golgappas are stuffed with a lip-smacking mixture of mashed potatoes and chickpeas and then topped with curd, chutneys, masalas, pomegranate seeds and sev. And the result is as delicious as it sounds! So, whenever you find yourself craving something sweet and spicy, rush to the nearest street food joint and relish some lip-smacking dahi chutney golpappe. This famous food in Varanasi is easily available in different eateries around the city. ",
+"Address":"Deena Chaat Bhandar, Luxa Rd, near PDR mall, Luxa, Varanasi, Uttar Pradesh 221001",
+"Timings":" 1–10:30 pm"
+
+    },
+     {
+      "id":"6.",
+      "title":"Tamatar Chaat",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJr2em5GLLDu4RpHRlSC26f7ZMzHq7sZSlZUZW7Bz0jiDgDtVNEyRnkqo5_owbpm-kzeRM2_6SueMva3xo9SdGbIn1XPpqbDYIoUT6AXAZ6895jaoX90K7zSoC7jVVugnsgYWHSimheCBp/w1200-h630-p-k-no-nu/tamatar+chaat.jpg",
+      "info":"This unique and delicious chaat available at Varanasi’s famous food joints is a favourite among locals and tourists. It is prepared with boiled and mashed potatoes and tomatoes, green chillies, onions and coriander leaves. The chaat is flavoured with red chilli powder, black pepper, garam masala, and other spices and served in biodegradable bowls made from the leaves of palash for that local touch. Although tamatar chaat can be a bit spicy, it is a must-try for every chaat lover visiting Banaras. Relish this delicacy once with chaat masala and crispy namak pare and you are sure to come back for more. ",
+"Address":"Kashi Chaat Bhandar, Dashashwamedh Ghat Rd, Godowlia, Varanasi, Uttar Pradesh 221001 ",
+"Timings":"2:30–10:30 pm"
+
+     },
+
+
+       {
+      "id":"7.",
+      "title":"Malaiyyo",
+      "image":"https://harpalssokhi.com/wp-content/uploads/2021/09/banaarasee-maliyo.jpg",
+      "info":"A delicacy in Varanasi, malaiyyo is a melt-in-the-mouth sweet dish available only in winter. It is made of milk foam or froth and the preparation process is quite special. To make malaiyyo, milk is boiled in an iron wok and then kept under the open sky at night. This is done for the dew drops to help initiate the foaming process. The milk is then churned with cardamom powder, saffron strands and sugar till the entire thing changes to foam. It is then garnished with chopped pistachios and almonds and served in local earthen cups called kulhads. If you are visiting Banaras in winter, make sure you relish this unique street dessert as you may not find it anywhere else.",
+      "Address":"The Ram Bhandar, Katra Ratanlal, Thatheri Bazar, Govindpura, Varanasi, Uttar Pradesh 221001 ",
+"Timings":" 8 am–4 pm"
+
+     },  {
+      "id":"8.",
+      "title":"Rabri Jalebi",
+      "image":"https://qph.cf2.quoracdn.net/main-qimg-02788e6ba1ccb6f0d23e7303d29d3ce2-lq",
+      "info":"Rabri is a sweet dish made with condensed milk and flavoured with sugar, saffron strands, rose water, almonds and pistachios. On the other hand, the desi ghee jalebis are prepared with all-purpose flour, yoghurt, saffron strands, sugar syrup and other ingredients. And when you relish these two together, the taste is totally drool-worthy. You got to try this Varanasi’s famous food at least once whenever you are in the city. ",
+ "Address":"Om Shree Ram Bhandar, Nadesar, Varanasi",
+"Timings":"7:30–11 am, 2:30–5:30 pm"
+
+     },  {
+      "id":"9.",
+      "title":"Kulhad Chai",
+      "image":"https://t4.ftcdn.net/jpg/05/83/89/73/240_F_583897320_DneXH2itBdWiNQk257vEm3HqQ125augt.jpg",
+      "info":"If you are looking to try popular drinks apart from foods in Banaras, remember to include kulhad chai in the list. Yes, a simple thing like chai tastes amazing in the city. It is prepared with buffalo milk and is richer and creamier when compared to regular tea. The local tea sellers also use some special chai masala for a unique flavour and aroma. This hot beverage in Banaras is served in kulhads or earthen cups and this further accentuates the taste. ",
+"Address":"Kashi Café, Assi Ghat Rd, Assi, Anandbagh, Dumraon Colony, Varanasi, Uttar Pradesh 221005",
+
+"Timings":" 7:00 am - 9:00 pm"
+
+     },
+       {
+      "id":"10.",
+      "title":"Lassi",
+      "image":"https://media.assettype.com/outlooktraveller%2Fimport%2Foutlooktraveller%2Fpublic%2Fuploads%2Farticles%2Fexplore%2FUntitled_design_-_2023-06-13T121419_216.jpg",
+      "info":"Wondering how a simple drink like lassi made it to the list of most famous foods in Varanasi? Well, Banarasi Lassi is quite different from the ones available in other parts of the country. In Varanasi, lassi is prepared in a special way; it is more like a dessert drink and quite filling. To make Banarasi lassi, fresh curd and sugar are whisked for a while and then topped with rabri, saffron strands, and chopped pistachios and almonds. Some eateries around the city serve different flavours of this delicacy, such as mango lassi, rose dry fruit lassi, butterscotch lassi and gulkand lassi, much to the delight of lassi lovers.  ",
+"Address":"Blue Lassi Shop, Kunj Gali, Kachaudi Gali, Near Rajbandhu, Govindpura, Varanasi, Uttar Pradesh 221001",
+"Timings":"9:30 am–9 pm"
+
+     }
+    
+]
+}

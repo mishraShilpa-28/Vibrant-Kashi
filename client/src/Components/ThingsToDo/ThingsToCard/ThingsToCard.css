@@ -1,0 +1,26 @@
+.detailThingsCards {
+    padding: 15px;
+  }
+  .divineThingsImage {
+    height: 500px;
+  }
+  .divineThingsImage img {
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+  }
+  .detailsThingsFlex {
+    display: flex;
+    gap: 8px;
+    font-weight: 800;
+    font-size: 1.2rem;
+  }
+  .divineThingsTitle {
+    font-size: 2rem;
+  }
+  
+  .HeadingThingsDetails {
+    font-weight: 300;
+    font-size: 1.2rem;
+  }
+

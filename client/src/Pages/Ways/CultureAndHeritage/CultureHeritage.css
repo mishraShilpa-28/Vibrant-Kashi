@@ -1,0 +1,38 @@
+* {
+  padding: 40px;
+  margin: 40px;
+}
+
+.CultureHeritage {
+  position: relative;
+  overflow: hidden;
+}
+.CultureHeritageImage {
+  height: 80vh;
+  width: 100vw;
+}
+.CultureHeritage img {
+  height: 100%;
+  width: 100%;
+}
+.CultureHeritageTitle {
+  position: absolute;
+  top: 65%;
+  left: 70px;
+  /* background-color: rgba(0, 0, 0, 0.5);   */
+  color: white;
+  padding: 10px;
+}
+.CultureHeritageHeading {
+  font-weight: 800;
+  font-size: 5rem;
+}
+.cultureHeading{
+     font-family: cursive;
+  font-size: 2.5em;
+  font-weight: 600;
+
+  margin-left: 40px;
+  margin-top: 40px;
+}
+

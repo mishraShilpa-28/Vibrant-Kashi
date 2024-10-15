@@ -1,0 +1,92 @@
+* {
+  padding: 40px;
+  margin: 40px;
+}
+
+.Restaurants {
+  position: relative;
+  overflow: hidden;
+}
+.RestaurantsImage {
+  height: 80vh;
+  width: 100vw;
+}
+.RestaurantsImage img {
+  height: 100%;
+  width: 100%;
+}
+.RestaurantsTitle {
+  position: absolute;
+  top: 65%;
+  left: 70px;
+  /* background-color: rgba(0, 0, 0, 0.5);   */
+  color: white;
+  padding: 10px;
+}
+.RestaurantsHeading {
+  font-weight: 900;
+  font-size: 5.5rem;
+}
+.restaurantsHeading {
+  font-family: cursive;
+  font-size: 2.5em;
+  font-weight: 600;
+
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+
+.detailsOfFood{
+ margin:50px 60px;
+ padding: 20px;
+ background-color: rgba(255, 255, 255, 0.914);
+  box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.678);
+  border-radius: 10px;
+ 
+  
+}
+.imageFood{
+  float: right;
+  height: 350px;
+  width: 450px;
+  border-radius: 8px;
+}
+
+.firstImageFood{
+  float: center;
+  padding: 5px;
+  width: 100%;
+  height: 600px;
+}
+
+.descriptionOfFood{
+  font-size: 1.2rem;
+}
+.secondImageFood{
+  float: left;
+  height: 350px;
+  width: 450px;
+  border-radius: 15px;
+  padding: 10px;
+  padding-bottom: 4px;
+ 
+  
+
+}
+
+.headingOfFood{
+  font-weight: 600;
+
+}
+.subheadingOfFood{
+  font-weight: 550;
+}
+
+.subTopicFood{
+  font-weight: 550;
+  
+}
+.descriptionOfFood{
+  font-family: Arial, Helvetica, sans-serif;
+}

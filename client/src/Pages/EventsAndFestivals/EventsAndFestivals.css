@@ -1,0 +1,36 @@
+* {
+  padding: 40px;
+  margin: 40px;
+}
+
+.EventsAndFestivals {
+  position: relative;
+  overflow: hidden;
+}
+.EventsAndFestivalsImage {
+  height: 80vh;
+  width: 100vw;
+}
+.EventsAndFestivalsImage img {
+  height: 100%;
+  width: 100%;
+}
+.EventsAndFestivalsTitle {
+  position: absolute;
+  top: 65%;
+  left: 70px;
+  /* background-color: rgba(0, 0, 0, 0.5);   */
+  color: white;
+  padding: 10px;
+}
+.EventsAndFestivalsHeading {
+  font-weight: 900;
+  font-size: 5.5rem;
+}
+.eventsAndFestivalsHeading {
+  font-family: cursive;
+  font-size: 2.5em;
+  font-weight: 600;
+  margin-left: 40px;
+  margin-top: 40px;
+}

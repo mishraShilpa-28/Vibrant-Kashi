@@ -1,0 +1,43 @@
+* {
+  padding: 40px;
+  margin: 40px;
+}
+
+.Review {
+  position: relative;
+  overflow: hidden;
+}
+.ReviewImage {
+  height: 80vh;
+  width: 100vw;
+}
+.ReviewImage img {
+  height: 100%;
+  width: 100%;
+}
+.ReviewTitle {
+  position: absolute;
+  top: 65%;
+  left: 70px;
+  /* background-color: rgba(0, 0, 0, 0.5);   */
+  color: white;
+  padding: 10px;
+}
+.reviewsHeading {
+  font-weight: 900;
+  font-size: 5.5rem;
+}
+.reviewTitle{
+ font-family: cursive;
+  font-size: 2.5em;
+  font-weight: 600;
+
+  margin-left: 40px;
+  margin-top: 40px;
+}
+.descriptionOfReview{
+  
+  margin-left: 45px;
+  margin-top: 20px;
+  font-size: 1.2em;
+}

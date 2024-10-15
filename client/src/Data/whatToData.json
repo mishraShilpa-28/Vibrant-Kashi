@@ -1,0 +1,25 @@
+{
+   "whatTo":
+    [
+    { 
+        "id": 1,
+        "title": "Evening Aarti",
+        "src": "https://kashiyatra.in/wp-content/uploads/2023/10/dashashwamedh-ghat-evening-ganga-aarti.jpg" 
+    },
+    { 
+        "id": 2,
+        "title": "Boat Ride",
+        "src":"https://optimatravels.com/images/day-tour-images/morning-boat-ride-varanasi-day-tour.jpg"
+    },
+    { 
+        "id": 3,
+        "title": "Visit Temples",
+        "src":"https://www.fabhotels.com/blog/wp-content/uploads/2024/01/d8288a7e-kashi-vishwanath-temple-min.jpg"
+    },
+    { 
+       "id": 4,
+       "title": "Stroll Ghats",
+       "src": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/72/68/de.jpg"
+    }
+ ]
+} 

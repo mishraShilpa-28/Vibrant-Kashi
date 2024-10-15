@@ -1,0 +1,37 @@
+* {
+  padding: 40px;
+  margin: 40px;
+}
+
+.ThingsToDo {
+  position: relative;
+  overflow: hidden;
+}
+.ThingsToDoImage {
+  height: 80vh;
+  width: 100vw;
+}
+.ThingsToDoImage img {
+  height: 100%;
+  width: 100%;
+}
+.ThingsToDoTitle {
+  position: absolute;
+  top: 65%;
+  left: 70px;
+  /* background-color: rgba(0, 0, 0, 0.5);   */
+  color: white;
+  padding: 10px;
+}
+.ThingsToDoHeading {
+  font-weight: 900;
+  font-size: 5.5rem;
+}
+.thingsToDoHeading {
+  font-family: cursive;
+  font-size: 2.5em;
+  font-weight: 600;
+
+  margin-left: 40px;
+  margin-top: 40px;
+}

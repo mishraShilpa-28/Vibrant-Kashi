@@ -1,0 +1,66 @@
+
+
+{
+    "more":[
+        {
+
+
+    "image": "https://static.toiimg.com/thumb/msid-34837148,width-550,height-433/34837148.jpg",
+      "name": "Ramnagar Fort",
+      "description": "Riverside Mughal fort with museum and temples.",
+      "cost": "Free",
+      "distance":"10.7 Km"
+    },
+
+    {
+      "image": "https://www.jagranimages.com/images/newimg/16112020/16_11_2020-16cha01c_21066599_181820.jpg",
+      "name": "Devdari Waterfall",
+      "description": "Majestic cascade amidst serene wilderness.",
+      "cost": "₹50 Per Person",
+      "distance": "74.8 Km"
+    },
+
+
+     {
+      "image": "https://thetempleguru.com/wp-content/uploads/2023/04/Vindhyavasini-temple-vindhyachal-3.jpg",
+      "name": "Vindhyachal Mandir",
+      "description": "Sacred Hindu temple in Vindhya mountains.",
+      "cost": "Free",
+      "distance": "63.8 Km"
+    },
+
+     {
+      "image": "https://www.tutorialspoint.com/chunar_fort/images/chandrakanta_chunargarh.jpg",
+      "name": "Chunar Fort",
+      "description": "Historic fortress with panoramic Ganges River views.",
+      "cost": "Free",
+      "distance": "28.6 Km"
+    },
+
+    {
+      "image": "https://www.nativeplanet.com/photos/325x244x100/2019/01/photo-92-152350-1.jpg",
+      "name": "Vijaygarh Fort",
+      "description": "Ancient stronghold with rich history and legends.",
+      "cost": "Free",
+      "distance": "Free"
+    },
+
+{
+      "image": "https://www.india.com/wp-content/uploads/2018/11/Chandra-Prabha-wildlife-sanctuary.jpg",
+      "name": "Chandra Prabha ",
+      "description": "Lush sanctuary with waterfalls and diverse wildlife.",
+      "cost": "₹50 Per Person",
+      "distance": "110.0 Km"
+    },
+
+
+{
+      "image": "https://static.toiimg.com/thumb/msid-67528043,width-550,height-433/67528043.jpg",
+      "name": "Vindham Waterfalls",
+      "description": "Scenic waterfall amidst lush Vindhya mountain landscape.",
+      "cost": "₹50 Per Person",
+      "distance": "68.4 Km"
+    }
+
+]
+}

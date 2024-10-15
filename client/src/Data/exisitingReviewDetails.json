@@ -1,0 +1,47 @@
+{"existingReview":
+
+[
+  {
+    "id": 1,
+    "title": "A Spiritual Oasis",
+    "body": "Assi Ghat is a haven for seekers of spiritual solace. The serene ambiance, coupled with the melodious chants of prayers, creates an atmosphere of tranquility unlike any other. Watching the sunrise over the Ganges while offering prayers was a deeply moving experience that will stay with me forever.",
+    "author": "Traveler123",
+    "rating": "⭐⭐⭐⭐⭐",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh6ac3ywmc8PgYHVZM1avpVrF5lSlm5UsaHg&s"
+  },
+  {
+    "id": 2,
+    "title": "Lassi Lover's Paradise",
+    "body": "The Blue Lassi Shop is a must-visit for anyone craving a taste of authentic Indian flavors. From classic lassi to innovative fruit blends, every sip is a burst of deliciousness. The friendly staff and vibrant atmosphere add to the charm of this iconic establishment. Don't miss the opportunity to indulge in a culinary adventure!",
+    "author": "Wanderlust87",
+    "rating": "⭐⭐⭐⭐",
+    "picture": "https://media-cdn.tripadvisor.com/media/photo-s/08/d9/4b/94/blue-lassi.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Mesmerizing Sunset Spectacle",
+    "body": "Embarking on a boat ride along the sacred Ganges River during sunset was an unforgettable experience. As the sun dipped below the horizon, the sky painted hues of orange and pink, casting a magical glow over the riverbanks and ancient ghats. It was a moment of pure serenity and awe-inspiring beauty that left me speechless.",
+    "author": "Explorer456",
+    "rating": "⭐⭐⭐⭐⭐",
+    "picture": "https://www.weseektravel.com/wp-content/uploads/2020/07/Varanasi-Ganges-River-Boat-Trip-3230-e1626241487358.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Off the Beaten Path",
+    "body": "Venturing off the beaten path in Varanasi led me to discover hidden gems that are often overlooked by tourists. From quaint alleyways adorned with colorful murals to hidden temples tucked away in quiet corners, each discovery was a delightful surprise. Exploring the lesser-known side of Varanasi allowed me to experience its authentic charm and rich cultural heritage.",
+    "author": "Adventurer789",
+    "rating": "⭐⭐⭐⭐",
+    "picture": "https://temple.yatradham.org/Product/temple/temple_To4YlfIJ_202308271009080.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Awe-Inspiring Ritual",
+    "body": "Attending the evening aarti ceremony at Dashashwamedh Ghat was a mesmerizing experience that left me spellbound. The rhythmic chants, synchronized movements, and the flickering glow of a thousand lamps created an atmosphere charged with devotion and spirituality. It was a soul-stirring spectacle that showcased the timeless tradition and unwavering faith of Varanasi.",
+    "author": "Pilgrim101",
+    "rating": "⭐⭐⭐⭐⭐",
+    "picture": "https://i2.wp.com/varanasivideos.com/wp-content/uploads/2019/01/Ganga-Aarti.jpg?fit=1600%2C900&ssl=1"
+  }
+]
+
+
+}

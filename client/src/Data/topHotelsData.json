@@ -1,0 +1,106 @@
+{
+    "topHotels":[
+        {
+            
+         "id":"1",
+         "src":"https://images.trvl-media.com/lodging/3000000/2860000/2858700/2858618/a1d50625.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+         "title":"Taj Nadesar Palace",
+         "rate":"4.9",
+         "people":"(3.5T)",
+         "location":"Nadesar Palace Grounds, Uttar Pradesh",
+         "price":"₹41,271"
+        
+        },
+
+
+         {
+         "id":"2",
+         "src":"https://media-cdn.tripadvisor.com/media/photo-s/2c/20/d0/12/hero-picture.jpg",
+         "title":"Taj Ganges",
+         "rate":"4.5",
+         "people":"(7.9T)",
+         "location":"Grounds, Nadesar Palace, Varanasi",
+         "price":"₹15,675"
+           },
+
+
+            {
+         "id":"3",
+         "src":"https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201004231445267510-a90a6fa00b5e11e590db0015c5f4277e.jpg",
+         "title":"Ramada Plaza",
+         "rate":"4.2",
+         "people":"(5.2T)",
+         "location":"The Mall Rd, Varanasi cantonment, Varanasi",
+         "price":"₹7,388"
+           },
+
+
+            {
+         "id":"4",
+         "src":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/251113368.jpg?k=bfd3dd769a91bd290522c880c95804f4554f09c10d36f99f600ca15b0e9c5491&o=&hp=1",
+         "title":"BrijRama Palace",
+         "rate":"4.5",
+         "people":"(1.3T)",
+         "location":"Darbhanga Ghat, Dashashwamedh, Varanasi",
+         "price":"₹26,018"
+           },
+
+
+
+
+            {
+         "id":"5",
+         "src":"https://hotelkashi.in/images/slide-4.jpg",
+         "title":"Hotel Kashi",
+         "rate":"4.7",
+         "people":"(560)",
+         "location":"Hauz Katora, Godowlia, Varanasi",
+         "price":"₹2,016"
+           },
+
+
+
+
+            {
+         "id":"6",
+         "src":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/437225491.jpg?k=113d2a7d98d4c8ddf240f779dad0e01352dd451f14191b904c0ae51174328e91&o=&hp=1",
+         "title":"Hotel The Royal Vista",
+         "rate":"4.5",
+         "people":"(342)",
+         "location":"Gate No. 4, Chhittupura, Sigra, Varanasi",
+         "price":"₹2,627"
+           },
+
+
+
+            {
+         "id":"7",
+         "src":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/f4/49/dc/executive-room.jpg?w=700&h=-1&s=1",
+         "title":"Hotel Dolphin Grand",
+         "rate":"4.5",
+         "people":"(198)",
+         "location":" beside LIC Office, Bhelupur, Varanasi",
+         "price":"₹5,971"
+           },
+
+
+            {
+         "id":"8",
+         "src":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/491728551.jpg?k=58dfe09051271510236373b5a2819b4ccbb15e3262edbac552332c6df3abf892&o=&hp=1",
+         "title":"Hotel Kalawati Palace",
+         "rate":"4.8",
+         "people":"(657)",
+         "location":"Kakarmata, Varanasi, Shivdaspur",
+         "price":"₹2,227"
+           },
+            {
+         "id":"9",
+         "src":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/504886820.jpg?k=1b98495b9dc719b9d32ccfd3cfc48a5a165e3cf2e9fd60edaef1a1b6b824122c&o=&hp=1",
+         "title":"CoCasa Boutique Hotel",
+         "rate":"4.7",
+         "people":"(327)",
+         "location":"Ganga Bagh Colony, Lanka, Varanasi",
+         "price":"₹4,175"
+           }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "topRestaurants":[
+        {
+            
+         "id":"1",
+         "src":"https://media-cdn.tripadvisor.com/media/photo-s/2a/67/63/0c/the-behind-yellow-doors.jpg",
+         "title":"Behind Yellow Doors Diner",
+         "rate":"4.2",
+         "people":"(2.1T)",
+         "location":"Hotel Stay Banaras C-33/52-9A-1A, Chittupura, Sigra, Varanasi"
+        
+        
+        },
+
+
+         {
+         "id":"2",
+         "src":"https://b.zmtcdn.com/data/pictures/4/20769014/7097cfc10a86dbe53c8096ec0f93e2b8.jpg",
+         "title":"Charcoal Fine Dining",
+         "rate":"4.7",
+         "people":"(1.1T)",
+         "location":"Sigra - Mahmoorganj Rd, Near Sarin Inn Hotel, Sigra, Varanasi"
+           },
+
+
+            {
+         "id":"3",
+         "src":"https://images.happycow.net/venues/1024/18/52/hcmp185258_760910.jpeg",
+         "title":"1916 Cafe & Restaurant",
+         "rate":"4.6",
+         "people":"(1.0T)",
+         "location":"Inside hotel ganesha palace, opposite Girja Ghar Chauraha, Girja Ghar, Ramapura Luxa, Varanasi"
+           },
+
+
+            {
+         "id":"4",
+         "src":"https://media-cdn.tripadvisor.com/media/photo-s/1a/65/97/48/20191226-111351-largejpg.jpg",
+         "title":"Aadha-Aadha Café",
+         "rate":"4.7",
+         "people":"(456)",
+         "location":"D.20/15 Munshi Ghat, near, Dashashwamedh Ghat Rd, Varanasi"
+           },
+
+
+
+
+            {
+         "id":"5",
+         "src":"https://img.restaurantguru.com/r033-Banarasi-Flavours-design.jpg",
+         "title":"Banarasi Flavours",
+         "rate":"4.5",
+         "people":"(319)",
+         "location":"Sonia Rd, Chetganj, Varanasi, Uttar Pradesh 221002"
+           },
+
+
+
+
+            {
+         "id":"6",
+         "src":"https://images.happycow.net/venues/1024/87/13/hcmp87130_1706849.jpeg",
+         "title":"Niyati Cafe",
+         "rate":"4.6",
+         "people":"(638)",
+         "location":"8255+7XP Manmandir, D 15/5, Dashashwamedh Ghat Rd, Bangali Tola, Varanasi, Uttar Pradesh 221001"
+           },
+
+
+
+            {
+         "id":"7",
+         "src":"https://content.jdmagicbox.com/comp/pushkar/p7/9999px145.x145.180702080031.j8p7/catalogue/everest-cafe-roof-top-restaurant-pushkar-coffee-shops-YFR3VVTjem.jpg",
+         "title":"Mount Everest Restaurant",
+         "rate":"4.9",
+         "people":"(62)",
+         "location":"D.19/30, k, -19/24, Kewal Gali, Bengalitola, Dashashwamedh, Varanasi, Uttar Pradesh 221001"
+           },
+
+
+            {
+         "id":"8",
+         "src":"https://b.zmtcdn.com/data/reviews_photos/eeb/9da8e25b86699f962a6b53392aa39eeb_1541475146.jpg",
+         "title":"Kashi Chat Bhandar",
+         "rate":"4.2",
+         "people":"(20T)",
+         "location":"D, 37/47, Dashashwamedh Ghat Rd, Godowlia, Varanasi, Uttar Pradesh 221001"
+           },
+            {
+         "id":"9",
+         "src":"https://media-cdn.tripadvisor.com/media/photo-s/0d/27/c5/20/best-rooftop-dining.jpg",
+         "title":"ROOFTOP Restaurant",
+         "rate":"4.7",
+         "people":"(29)",
+         "location":"B6/79 Kedarghat, Sonarpura, Varanasi, Uttar Pradesh 221001"
+           }
+    ]
+}
